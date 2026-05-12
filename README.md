@@ -1,6 +1,6 @@
 # SauceDemo Automation FrontEnd 🧪
 
-Proyecto de automatización de pruebas E2E para [SauceDemo](https://www.saucedemo.com/) usando **Playwright**, **Cucumber** y el patrón **Page Object Model**.
+Proyecto de automatización de pruebas FrontEnd para [SauceDemo](https://www.saucedemo.com/) usando **Playwright**, **Cucumber** y el patrón **Page Object Model**.
 
 ![Node.js](https://img.shields.io/badge/Node.js-v18+-339933?logo=node.js&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-1.44-2EAD33?logo=playwright&logoColor=white)
@@ -12,7 +12,7 @@ Proyecto de automatización de pruebas E2E para [SauceDemo](https://www.saucedem
 ## 📁 Estructura del proyecto
 
 ```
-saucedemo-frontEnd/
+automation-frontEnd/
 │
 ├── features/                # Escenarios en Gherkin
 │   ├── login.feature
